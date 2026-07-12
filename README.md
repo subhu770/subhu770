@@ -29,6 +29,6 @@ An aspiring **AI/ML Engineer & Generative AI Enthusiast** currently in my 2nd ye
 
 ### 🤝 Let's Connect!
 - **LinkedIn:** [Subham Sethy](https://www.linkedin.com/in/subham-sethy-563b323ba)
-- **Email:** subhamsethy013@gmail.com
+- **Email:** subhamsethy03@gmail.com
 
 *"The best way to predict the future is to invent it."*
