@@ -24,7 +24,7 @@ An aspiring **AI/ML Engineer & Generative AI Enthusiast** currently in my 2nd ye
 
 ![Subham's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=subhu770&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhu770&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subhu770&layout=compact&theme=dark)
 
 ---
 
