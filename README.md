@@ -22,8 +22,10 @@ An aspiring **AI/ML Engineer & Generative AI Enthusiast** currently in my 2nd ye
 
 ### 📈 GitHub Stats
 
-![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhu770&show_icons=true&theme=radial&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhu770&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhu770&show_icons=true&theme=dark" alt="Subham's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhu770&layout=compact&theme=dark" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
