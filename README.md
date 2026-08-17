@@ -22,13 +22,7 @@ An aspiring **AI/ML Engineer & Generative AI Enthusiast** currently in my 2nd ye
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhu770&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhu770&theme=radical&no-frame=true&no-bg=true" alt="Subham's Trophies" />
-</p>
+![Subham's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=subhu770&theme=tokyo-night&area=true&hide_border=true)
 
 ---
 
