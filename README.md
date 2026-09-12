@@ -22,7 +22,7 @@ An aspiring **AI/ML Engineer & Generative AI Enthusiast** currently in my 2nd ye
 
 ### 📈 GitHub Stats
 
-![Subham's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=subhu770&theme=tokyo-night&area=true&hide_border=true)
+![Subham's Stats](https://raw.githubusercontent.com/subhu770/subhu770/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
