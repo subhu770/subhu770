@@ -22,7 +22,7 @@ An aspiring **AI/ML Engineer & Generative AI Enthusiast** currently in my 2nd ye
 
 ### 📈 GitHub Stats
 
-![Subham's Stats](https://raw.githubusercontent.com/subhu770/subhu770/main/profile-3d-contrib/profile-night-rainbow.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=subhu770&theme=tokyo-night&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
